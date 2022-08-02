@@ -1,4 +1,4 @@
-unicorn==20.1.0
+unicorn==22.2.1 
 psycopg2-binary==2.9.3
 certifi==2020.6.2
 chardet==3.0.4
