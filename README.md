@@ -33,5 +33,6 @@ Registered users can view and comment on blog posts created by admin
 <li>Encryption and Hashing
 <li>Salting Passwords
 <li>Creating Relational Databases
+<br>
 <h4>Try a live version here:</h4>
 <a href="https://fake--blog.herokuapp.com/">Heroku link</a>
