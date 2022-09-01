@@ -1,8 +1,35 @@
-<h1>Fake Blog</h1>
-<h2>A RESTful Blog with Editing</h2>
+<h1>Python RESTful Blog</h1>
+
+This project was created to make a blog website using Python's Flask framework.
+
+This project can be ran by cloning or downloading source code from Github. Installing dependencies and running on your local IDE.
+
+
+<h3>Technology </h3>
+<ul> Python</ul>
+<ul>Flask </ul>
+<ul>SQLite </ul>
+
+
+
+
+<h3>Features</h3>
+
+This blog application currently has the ability to:
+<ul>
+Register a user
+</ul>
+<ul>
+Admin has ability to create, update, and delete blog posts
+</ul>
+<ul>
+Registered users can view and comment on blog posts created by admin
+</ul>
+
+
 <h4>Concepts learned and practiced:</h4>
 <li>Built a full REST API from scratch using Flask
-<li>Login and Registering Users with Authentication
+<li>Login and Register Users with Authentication
 <li>Encryption and Hashing
 <li>Salting Passwords
 <li>Creating Relational Databases
